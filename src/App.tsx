@@ -1,26 +1,51 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// @ts-ignore
+import UnderConstruction from 'react-under-construction';
+import 'react-under-construction/build/css/index.css';
+import github from './logo/github2.svg';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+
+        <UnderConstruction
+            background={{
+                image: 'https://static.pexels.com/photos/259698/pexels-photo-259698.jpeg',
+                textColor: '#fff',
+                overlay: {
+                    color: '#000',
+                    opacity: '.5'
+                }
+            }}
+            logo={{
+                src: 'https://image.ibb.co/b7guP5/Rubbby_without_text.png',
+                alt: 'alt text'
+            }}
+            title={{
+                text: 'Rubbby'
+            }}
+            description={{
+                text: 'Website is under construction. We\'ll be here soon',
+                style: {
+                    maxWidth: '440px',
+                }
+            }}
+
+            links={[
+                {
+                    url: 'https://github.com/jasurn',
+                    image: github,
+                },
+                {
+                    url: 'https://www.linkedin.com/in/jasurn/',
+                    image: 'https://image.flaticon.com/icons/svg/145/145807.svg',
+                },
+                {
+                    url: 'mailto:97jasur@gmail.com',
+                    image: 'https://image.flaticon.com/icons/svg/321/321817.svg',
+                },
+            ]}
+        />
+    );
 }
 
 export default App;
