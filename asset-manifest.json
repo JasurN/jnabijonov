@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/jnabijonov/static/js/main.702ffe44.chunk.js",
-    "main.js.map": "/jnabijonov/static/js/main.702ffe44.chunk.js.map",
+    "main.js": "/jnabijonov/static/js/main.7a574677.chunk.js",
+    "main.js.map": "/jnabijonov/static/js/main.7a574677.chunk.js.map",
     "runtime-main.js": "/jnabijonov/static/js/runtime-main.c2176c2a.js",
     "runtime-main.js.map": "/jnabijonov/static/js/runtime-main.c2176c2a.js.map",
     "static/css/2.2e9c039f.chunk.css": "/jnabijonov/static/css/2.2e9c039f.chunk.css",
     "static/js/2.4031fd54.chunk.js": "/jnabijonov/static/js/2.4031fd54.chunk.js",
     "static/js/2.4031fd54.chunk.js.map": "/jnabijonov/static/js/2.4031fd54.chunk.js.map",
     "index.html": "/jnabijonov/index.html",
-    "precache-manifest.c97b00cdb6ae18456188ae845766d7e4.js": "/jnabijonov/precache-manifest.c97b00cdb6ae18456188ae845766d7e4.js",
+    "precache-manifest.0934b8cfd853e9b85f386fc34e22a357.js": "/jnabijonov/precache-manifest.0934b8cfd853e9b85f386fc34e22a357.js",
     "service-worker.js": "/jnabijonov/service-worker.js",
     "static/css/2.2e9c039f.chunk.css.map": "/jnabijonov/static/css/2.2e9c039f.chunk.css.map",
     "static/js/2.4031fd54.chunk.js.LICENSE.txt": "/jnabijonov/static/js/2.4031fd54.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c2176c2a.js",
     "static/css/2.2e9c039f.chunk.css",
     "static/js/2.4031fd54.chunk.js",
-    "static/js/main.702ffe44.chunk.js"
+    "static/js/main.7a574677.chunk.js"
   ]
 }
