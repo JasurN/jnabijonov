@@ -20,7 +20,7 @@ function App() {
                 alt: 'alt text'
             }}
             title={{
-                text: 'jnabijonov'
+                text: 'Jnabijonov'
             }}
             description={{
                 text: 'Website is under construction. We\'ll be here soon',
@@ -39,7 +39,7 @@ function App() {
                     image: 'https://image.flaticon.com/icons/svg/145/145807.svg',
                 },
                 {
-                    url: 'mailto:97jasur@gmail.com',
+                    url: 'mailto:jnabijonovs@gmail.com',
                     image: 'https://image.flaticon.com/icons/svg/321/321817.svg',
                 },
             ]}
