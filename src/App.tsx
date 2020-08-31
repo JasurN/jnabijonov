@@ -2,10 +2,11 @@ import React from 'react';
 // @ts-ignore
 import UnderConstruction from 'react-under-construction';
 import 'react-under-construction/build/css/index.css';
-import github from './logo/github2.svg';
+import github from './github.svg';
 
 function App() {
     return (
+
         <UnderConstruction
             background={{
                 image: 'https://static.pexels.com/photos/259698/pexels-photo-259698.jpeg',
@@ -39,7 +40,7 @@ function App() {
                     image: 'https://image.flaticon.com/icons/svg/145/145807.svg',
                 },
                 {
-                    url: 'mailto:jnabijonovs@gmail.com',
+                    url: 'mailto:97jasur@gmail.com',
                     image: 'https://image.flaticon.com/icons/svg/321/321817.svg',
                 },
             ]}
