@@ -3,13 +3,13 @@ import React from 'react';
 import UnderConstruction from 'react-under-construction';
 import 'react-under-construction/build/css/index.css';
 import github from './github.svg';
-
+import background from './img/background.webp'
 function App() {
     return (
 
         <UnderConstruction
             background={{
-                image: 'https://static.pexels.com/photos/259698/pexels-photo-259698.jpeg',
+                image: background,
                 textColor: '#fff',
                 overlay: {
                     color: '#000',
