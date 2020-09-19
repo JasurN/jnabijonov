@@ -21,10 +21,10 @@ function App() {
                 alt: 'alt text'
             }}
             title={{
-                text: 'Jnabijonov'
+                text: 'Jasurbek Nabijonov'
             }}
             description={{
-                text: 'Website is under construction. We\'ll be here soon',
+                text: 'Full stack web developer specialized in React, Typescript,  Redux, Python-Django',
                 style: {
                     maxWidth: '440px',
                 }
